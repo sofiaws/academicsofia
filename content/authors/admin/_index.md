@@ -1,13 +1,13 @@
 ---
 title: Sofia Scatolin
-role: PhD Student
+role: Ph.D. Student
 avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - ChildDevelopment
-  - ComputationalCognitiveNeuroscience
-  - Caregiving
+  - Child development
+  - Parent-child interactions
+  - Computational cognitive neuroscience
 social:
   - icon: envelope
     icon_pack: fas
@@ -31,7 +31,7 @@ organizations:
     url: https://www.jacobscenter.uzh.ch/en.html
 education:
   courses:
-    - course: PhD in Psychology
+    - course: Ph.D. in Psychology
       institution: University of Zurich
       year: ""
     - course: MSc. in Behavioural Science
@@ -44,9 +44,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am Sofia Scatolin, a Ph.D. student in developmental neuroscience. Currently I am investigating the intergenerational transfer of socioemotional skills, using functional Magnetic Resonance Imaging (fMRI) and behavioural assessments. I am fascinated by how children learn and how parents foster this process. In my spare time, I enjoy bouldering and hiking. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
