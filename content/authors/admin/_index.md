@@ -5,9 +5,9 @@ avatar_filename: mpi_light.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - ChildDevelopment
-  - ComputationalCognitiveNeuroscience
+  - Child Development
   - Caregiving
+  - Computational Cognitive Neuroscience
 social:
   - icon: envelope
     icon_pack: fas
