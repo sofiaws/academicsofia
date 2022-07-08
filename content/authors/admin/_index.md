@@ -1,7 +1,7 @@
 ---
 title: Sofia Scatolin
 role: PhD Student
-avatar_filename: mpi_light.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
