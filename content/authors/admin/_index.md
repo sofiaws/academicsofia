@@ -5,9 +5,9 @@ avatar_filename: mpi_light.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Child Development
+  - ChildDevelopment
+  - ComputationalCognitiveNeuroscience
   - Caregiving
-  - Computational Cognitive Neuroscience
 social:
   - icon: envelope
     icon_pack: fas
@@ -27,6 +27,8 @@ social:
 organizations:
   - name: University of Zurich
     url: https://www.uzh.ch/en.html
+  - name: Jacobs Center for Productive Youth Development
+    url: https://www.jacobscenter.uzh.ch/en.html
 education:
   courses:
     - course: PhD in Psychology
@@ -35,7 +37,7 @@ education:
     - course: MSc. in Behavioural Science
       institution: Radboud University
       year: 2022
-    - course: BSc in Psychology
+    - course: BSc. in Psychology
       institution: Pontifical Catholic University of Paraná
       year: 2020
 email: ""
