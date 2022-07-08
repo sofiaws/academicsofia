@@ -44,6 +44,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I am Sofia Scatolin, a Ph.D. student in developmental neuroscience. Currently I am investigating the intergenerational transfer of socioemotional skills, using functional Magnetic Resonance Imaging (fMRI) and behavioural assessments. I am fascinated by how children learn and how parents foster this process. In my spare time, I enjoy bouldering and hiking. 
+
+I am Sofia Scatolin, a Ph.D. student in developmental neuroscience. Currently I am investigating the intergenerational transfer of socioemotional skills, using functional Magnetic Resonance Imaging (fMRI) and behavioural assessments. I am fascinated by how children learn and how parents foster this process. In my spare time, I enjoy bouldering and hiking.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
