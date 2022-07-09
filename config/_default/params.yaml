@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: rose
-  theme_night: rose
-  font: minimal
+  theme_day: custom_theme
+  theme_night: custom_theme
+  font: custom_font
   font_size: M
 
 # SEO
@@ -35,7 +35,7 @@ header:
     align: l
     show_logo: true
     show_language: false
-    show_day_night: true
+    show_day_night: false
     show_search: true
     highlight_active_link: true
 
