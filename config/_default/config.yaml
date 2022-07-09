@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Sofia Scatolin # Website name
-baseURL: 'https://sofiascatolin.netlify.app/' # Website URL
+baseURL: 'https://academicsofia.netlify.app/' # Website URL
 
 ############################
 ## LANGUAGE
